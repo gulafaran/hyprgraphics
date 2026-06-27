@@ -35,6 +35,9 @@ build/
 .vscode/
 .cache/
 
+.envrc
+.direnv/
+
 .cmake/
 CMakeCache.txt
 CMakeFiles/
